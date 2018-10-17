@@ -3,4 +3,8 @@ hello welcome to pull request success by master itsself
 =======
 hello welcome to pull request success by master itsself.
 manojpaul branch changes.
+<<<<<<< HEAD
+>>>>>>> manojpaul
+=======
+here one more.
 >>>>>>> manojpaul
