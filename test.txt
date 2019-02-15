@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-hello welcome to pull request success by master itsself
-=======
-hello welcome to pull request success by master itsself.
-manojpaul branch changes.
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> manojpaul
-=======
-here one more.
->>>>>>> manojpaul
-=======
-here one more.
-again one more
->>>>>>> manojpaul
+master branch
