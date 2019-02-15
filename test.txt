@@ -1,1 +1,2 @@
 master branch first commit in test.txt file
+master branch SECOND commit in test.txt file
