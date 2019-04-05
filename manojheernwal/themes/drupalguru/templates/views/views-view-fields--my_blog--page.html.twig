@@ -1,0 +1,9 @@
+ <div class="container">
+ {% set url = fields.user_picture.content|striptags %}
+
+ <img src="{{url}}" class="rounded-circle" alt="Cinque Terre" width="200" height="200">&nbsp&nbsp
+  Posted by {{ fields.uid.content}} || <i class="fa fa-calendar" aria-hidden="true"></i>{{ fields.changed.content}} 
+ <h1>  {{ fields.title.content}} </h1>
+<p> {{fields.body.content}}</p>
+<a class="more-link jump-link" href="{{fields.view_node.content|striptags }}">Read More</a
+</div>

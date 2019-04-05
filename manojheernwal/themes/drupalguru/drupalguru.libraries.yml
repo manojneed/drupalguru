@@ -1,0 +1,16 @@
+## YAML Template.
+---
+global-styling:
+  version: VERSION
+  css:
+    theme:
+      css/bootstrap.min.css: {scope: header}
+      css/main.css: {scope: header}
+
+  js:
+    js/bootstrap.bundle.min.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once  
+
+      
